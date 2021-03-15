@@ -6,7 +6,7 @@
 	<title>Board</title>
 </head>
 
-<script src="/js/jQuery-2.1.4.min.js"></script>
+<script src="https://code.jquery.com/jquery-latest.min.js"></script>
 
 	<script>
 		$(document).ready(function() {
